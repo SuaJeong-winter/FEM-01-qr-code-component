@@ -1,0 +1,19 @@
+body {
+  background-color: #d5e1ef;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 98vh;
+}
+.card {
+  background-color: white;
+  width: 320px;
+  height: 499px;
+}
+
+.attribution {
+  text-align: center;
+}
